@@ -1,8 +1,8 @@
 # Protótipo de Aplicativo Android - Combate à Dengue
 
-**Versão 1.0 **
 
-[Link do protótipo em Figma](https://www.figma.com/proto/RLygnS3hVWtBJHHBDhhNS2/Dengue-Zero?node-id=14-6&starting-point-node-id=3%3A147&mode=design&t=yBAS6JjGASA2fjG6-1)
+[Link do protótipo em Figma](https://www.figma.com/proto/RLygnS3hVWtBJHHBDhhNS2/Dengue-Zero?node-id=14-6&starting-point-node-id=3%3A147&mode=design&t=yBAS6JjGASA2fjG6-1) 
+ **Versão 1.0 **
 
 ### **1. Introdução**
 
@@ -116,5 +116,16 @@ Este protótipo visa fornecer uma interface intuitiva e eficiente para os usuár
 *Nota: Este documento serve como base para o desenvolvimento do protótipo. Detalhes específicos, como design de interface, segurança e requisitos técnicos, devem ser tratados no decorrer do processo de implementação.*
 
 ---
-### Image
+[DOC em PDF da documentação do Projeto](doc.pdf)
+
 ![img](img.png)
+
+---
+### Obrigado, Professor Eduardo A. Freitas! 🚀
+
+Gostaríamos de dar aquele shout-out especial para o [Mestre Eduardo](linkedin.com/in/eduardo-freitas-professor-ti), o mago da Engenharia de Software! 🎩✨ Sua paciência infinita e sabedoria mágica foram cruciais para transformar nosso projeto em uma obra-prima.
+
+Nossos bits e bytes transbordam de alegria por ter você como guia nesta jornada de códigos e protótipos. Você é o verdadeiro MVP (Most Valuable Professor)!
+
+Com gratidão e emojis de código-fonte,
+A Turma do Combate à Dengue 🦟💻
